@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: /*rgba(0, 0, 0, 0.967)*/rgb(191, 67, 67);
+    background-color: /* AQUI rgba(0, 0, 0, 0.967)*/rgb(67, 168, 191);
     overflow-x: hidden;
 }
 
