@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: rgba(0, 0, 0, 0.967); /* ALTERANDO /*
+    background-color: rgba(0, 0, 0, 0.967); 
     overflow-x: hidden;
 }
 
@@ -496,4 +496,4 @@ section.sec3{
         margin-top: 4px;
         cursor: pointer;
     }
-}}
+}
